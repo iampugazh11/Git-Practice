@@ -1,2 +1,2 @@
 Main
-P1
+Program
